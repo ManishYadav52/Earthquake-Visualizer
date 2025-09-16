@@ -12,14 +12,6 @@ Currently, two official plugins are available:
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
 
 
-
-## Code Sharing
-
-The complete source code for this project is available on GitHub:
-
-[Earthquake Visualizer Repository](https://github.com/ManishYadav52/Earthquake-Visualizer)
-
-
 # Earthquake Visualizer
 
 ## Summary
@@ -67,6 +59,15 @@ src/
 - Sticky glass header, responsive layout, high contrast.  
 - Magnitude colors: **red (>=6)**, **orange (4–5.9)**, **yellow (<4)**.  
 - High-magnitude markers **pulse animation**.
+
+- ## Code Sharing
+
+The complete source code for this project is available on GitHub:
+
+[Earthquake Visualizer Repository](https://github.com/ManishYadav52/Earthquake-Visualizer)
+
+-## Live Project Runnig Link
+
 
 - ## AI Assistance / Approach
 I used ChatGPT to get guidance on:
