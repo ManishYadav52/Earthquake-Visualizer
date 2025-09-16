@@ -67,7 +67,7 @@ The complete source code for this project is available on GitHub:
 [Earthquake Visualizer Repository](https://github.com/ManishYadav52/Earthquake-Visualizer)
 
 -## Live Project Runnig Link
-
+[Live Link] (https://rxlkgl-5173.csb.app/?feed=day&mag=0)
 
 - ## AI Assistance / Approach
 I used ChatGPT to get guidance on:
