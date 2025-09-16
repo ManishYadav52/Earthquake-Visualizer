@@ -13,7 +13,11 @@ If you are developing a production application, we recommend using TypeScript wi
 
 
 
+## Code Sharing
 
+The complete source code for this project is available on GitHub:
+
+[Earthquake Visualizer Repository](https://github.com/ManishYadav52/Earthquake-Visualizer)
 
 
 # Earthquake Visualizer
