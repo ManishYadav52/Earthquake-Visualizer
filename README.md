@@ -66,7 +66,13 @@ src/
 ## Design Notes
 - Sticky glass header, responsive layout, high contrast.  
 - Magnitude colors: **red (>=6)**, **orange (4–5.9)**, **yellow (<4)**.  
-- High-magnitude markers **pulse animation**.  
+- High-magnitude markers **pulse animation**.
+
+- ## AI Assistance / Approach
+I used ChatGPT to get guidance on:
+- Creating interactive earthquake markers
+- Sidebar-map interaction
+Conversation snippets: https://drive.google.com/file/d/1WRUArAbYbz3wwf69BgHTVizecegDRnGV/view?usp=sharing
 
 ## Setup
 ```bash
